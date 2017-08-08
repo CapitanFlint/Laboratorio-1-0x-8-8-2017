@@ -14,7 +14,7 @@ __R:__
 
 __R:__
 
-+ El gen que ha sido relacionado con la enfermedad es AGL, que se localiza en 1p21.2 y posee 36 exones. (2) 
++ `El gen que ha sido relacionado con la enfermedad es AGL, que se localiza en 1p21.2 y posee 36 exones.` (2) 
 
 + ¿Tiene nombres alternativos el gen?  
 	
