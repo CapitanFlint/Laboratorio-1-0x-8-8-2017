@@ -26,7 +26,7 @@ __R:__
 
 __R:__
 
-+ El gen AGL se encuentra en el cromosoma 1. Posee 36 exones. 
++ El gen AGL se encuentra en el cromosoma 1. Posee 36 exones. Posee 212 variantes.
 
 
 #### ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?  
@@ -34,15 +34,39 @@ __R:__
 
 __R:__
 
-+
++ Es una enzima monomérica que posee una masa de 160 KDa. Además, posee dos sitios catalíticos activos. Sus EC son EC 3.2.1.33( amylo-1,6-glucosidase) y EC 2.4.1.25(4-alpha-glucanotransferase).
 
 #### ¿Qué genes están inmediatamente río arriba/abajo?  
 
 __R:__
 
-+
++ Río abajo está el gen SLC35A3, y río arriba 
+
+#### ¿Cuál es la longitud de tu gen?
+	
+__R:__
+
++ ` El gen posee 73,947 pb.`
 
 
+#### ¿Cuántas variantes de tu gen hay descritas y en qué posiciones?  
+
+__R:__
+
++ `
+
+#### ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?¿Existen ortólogos de tu gen en otras especies?¿Cuántos?
+
+__R:__
+
++`
+
+
+#### ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?  
+
+__R:__
+
++`
 
 
 
