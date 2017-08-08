@@ -7,7 +7,7 @@
 
 __R:__
 
-+ La enfermedad de almacenamiento del glicógeno III es un desorden autosomático recesivo, que es causado por mutaciones en el gen AGL(AMYLO-1,6-GLUCOSIDASE, 4-ALPHA-GLUCANOTRANSFERASE; AGL), el cual codifica para la enzima "glycogen debrancher enzyme". La enfermedad se caracteriza por un acumulamiento anormal de glicógeno de cadenas cortas externas, lo cual genera diversos problemas fisiológicos tales como hepatomegalia, hipoglucemia, estatura baja y miopatía variable. Además, existen variantes para esta enfermedad, que se diferencian en la ponderación de expresión de la proteína en distintos tejidos, principalmente hígado y tejido muscular. (1)
++ `La enfermedad de almacenamiento del glicógeno III es un desorden autosomático recesivo, que es causado por mutaciones en el gen AGL(AMYLO-1,6-GLUCOSIDASE, 4-ALPHA-GLUCANOTRANSFERASE; AGL), el cual codifica para la enzima "glycogen debrancher enzyme". La enfermedad se caracteriza por un acumulamiento anormal de glicógeno de cadenas cortas externas, lo cual genera diversos problemas fisiológicos tales como hepatomegalia, hipoglucemia, estatura baja y miopatía variable. Además, existen variantes para esta enfermedad, que se diferencian en la ponderación de expresión de la proteína en distintos tejidos, principalmente hígado y tejido muscular.` (1)
 
 + ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?
 
@@ -20,7 +20,7 @@ __R:__
 	
 __R:__
 
-+
++ `Si, también se le denomina "GDE", que es el nombre de la enzima que codifica`.(2)
 
 + ¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?  
 
