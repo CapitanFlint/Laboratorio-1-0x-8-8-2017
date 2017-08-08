@@ -26,7 +26,7 @@ __R:__
 
 __R:__
 
-+ `El gen AGL se encuentra en el cromosoma 1. Posee 36 exones. Posee 212 variantes.`
++ `El gen AGL se encuentra en el cromosoma 1. Posee 36 exones. Posee 5 isoformas de transcrito.`
 
 
 #### ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?  
@@ -53,7 +53,11 @@ __R:__
 
 __R:__
 
-+ `
++ `Posee 220 variantes descritas.
+ -
+ -
+ -
+(3)
 
 #### ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?¿Existen ortólogos de tu gen en otras especies?¿Cuántos?
 
@@ -81,3 +85,4 @@ __R:__
 
 1) http://www.omim.org/entry/232400?search=disease&highlight=disease
 2) https://www.ncbi.nlm.nih.gov/gene/178
+3) https://www.ncbi.nlm.nih.gov/gene/?Term=ortholog_gene_178[group]
