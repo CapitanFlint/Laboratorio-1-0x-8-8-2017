@@ -99,6 +99,17 @@ __R:__
 
 + `En dos: Starch and sucrose metabolism(hsa00500) y Metabolic pathways(hsa01100 ).`
 
+![hsa00500](https://github.com/CapitanFlint/Laboratorio-1-0x-8-8-2017/blob/master/scratch%20metabolic%20pathway.png)
+
+
+__Imagen 1__: Ruta metabólica 'Scratch and sucrose metabolism.
+
+![hsa01100](https://github.com/CapitanFlint/Laboratorio-1-0x-8-8-2017/blob/master/metabolic%20pathway%20general.png)
+
+
+__Imagen 2__: Ruta metabólica general.
+
+
 #### ¿Cuál es el número de identificación de tu gen (entry number)?  
 
 __R:__
