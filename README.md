@@ -55,10 +55,10 @@ __R:__
 
 + `Posee 220 variantes descritas. (4)`
 
- + ` __De las cuales:__
- + NM_000642.2(AGL):c.256C>T (p.Gln86Ter), __razón: Está descrito como pátogénico.__ (5)
- + NM_000642.2(AGL):c.276delG, __razón: Deleción de una G, es además, patogénico.__(6)
- + NM_000642.2(AGL):c.753_756delCAGA, __razón: Posee una deleción mayor que en el caso anterior, patogénico__(7) `
+ + `__De las cuales:__`
+ + `NM_000642.2(AGL):c.256C>T (p.Gln86Ter), __razón: Está descrito como pátogénico.__ (5)`
+ + `NM_000642.2(AGL):c.276delG, __razón: Deleción de una G, es además, patogénico.__(6)`
+ + `NM_000642.2(AGL):c.753_756delCAGA, __razón: Posee una deleción mayor que en el caso anterior, patogénico__(7)`
 
 
 #### ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?¿Existen ortólogos de tu gen en otras especies?¿Cuántos?
@@ -81,9 +81,9 @@ __R:__
 
 
 ## __Glosario__:
-- `Isoforma de un gen: Corresponde a una variación entre mRNA que provienen de un mismo locus y que tal diferencia se basa en el splicing.
+- `Isoforma de un gen: Corresponde a una variación entre mRNA que provienen de un mismo locus y que tal diferencia se basa en el splicing.`
 
--Variación de un gen: corresponden a diferencias producidas por SNPs o MNPs. `
+- `Variación de un gen: corresponden a diferencias producidas por SNPs o MNPs.`
 
 
 # BIBLIOGRAFÍA
