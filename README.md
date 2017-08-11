@@ -26,7 +26,7 @@ __R:__
 
 __R:__
 
-+ `El gen AGL se encuentra en el brazo corto del cromosoma 1. Posee 36 exones. Posee 5 isoformas de transcrito.`
++ `El gen AGL se encuentra en el brazo corto del cromosoma 1. Posee 36 exones. Posee 5 isoformas de transcrito, aunque en uniprot aparecen 6 isoformas descritas (8).`
 
 
 #### ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?  
@@ -73,7 +73,9 @@ __R:__
 
 __R:__
 
-+`
++ `En la página de variación, aparecen 0 resultados para la selección 'Duplication', por lo que basándome en ésta base de datos, no existen parálogos para el gen AGL.` 
+
++` No posee pseudogenes. Hay dos pseudogenes cercanos pero corresponden a otras funciones: RPL39P9 y RP4-581O6.1.`
 
 
 
@@ -96,3 +98,4 @@ __R:__
 5) https://www.ncbi.nlm.nih.gov/clinvar/variation/196286/
 6) https://www.ncbi.nlm.nih.gov/clinvar/variation/371401/
 7) https://www.ncbi.nlm.nih.gov/clinvar/variation/370509/
+8) http://www.uniprot.org/uniprot/P35573
