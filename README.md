@@ -91,13 +91,13 @@ __R:__
 
 __R:__
 
-+ `
++ `No, los sinónimos encontrados en KEGG son los mismos descritos al comienzo de este informe, sin embargo, en la página Reactome.org, encontré estos sinónimos: glycogen debranching enzyme, glycogen debrancher, GDE_HUMAN, Glycogen debranching enzyme, Glycogen debrancher, 4-alpha- glucanotransferase , Oligo-1,4-1,4-glucantransferase, Amylo-alpha-1,6-glucosidase , Amylo-1,6-glucosidase, Dextrin 6-alpha-D-glucosidase (9).` 
 
 #### ¿En qué rutas metabólicas participa la proteina codificada por tu gen?  
 
 __R:__
 
-+ `
++ `En dos: Starch and sucrose metabolism(hsa00500) y Metabolic pathways(hsa01100 ).`
 
 #### ¿Cuál es el número de identificación de tu gen (entry number)?  
 
@@ -129,3 +129,4 @@ __R:__
 6) https://www.ncbi.nlm.nih.gov/clinvar/variation/371401/
 7) https://www.ncbi.nlm.nih.gov/clinvar/variation/370509/
 8) http://www.uniprot.org/uniprot/P35573
+9) http://reactome.org/content/detail/R-HSA-71545
