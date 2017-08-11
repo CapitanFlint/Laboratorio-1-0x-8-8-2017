@@ -26,7 +26,7 @@ __R:__
 
 __R:__
 
-+ `El gen AGL se encuentra en el cromosoma 1. Posee 36 exones. Posee 5 isoformas de transcrito.`
++ `El gen AGL se encuentra en el brazo corto del cromosoma 1. Posee 36 exones. Posee 5 isoformas de transcrito.`
 
 
 #### ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?  
@@ -40,7 +40,7 @@ __R:__
 
 __R:__
 
-+ `Río abajo está el gen SLC35A3, y río arriba `.
++ `Río abajo está el gen SLC35A3, y río arriba está el gen FRRRS1`.
 
 #### ¿Cuál es la longitud de tu gen?
 	
@@ -53,7 +53,7 @@ __R:__
 
 __R:__
 
-+ `Posee 220 variantes descritas.
++ `Posee 220 variantes descritas. (4)
  -
  -
  -
@@ -78,7 +78,9 @@ __R:__
 
 
 
-
+## __Glosario__:
+`-Isoforma de un gen: Corresponde a una variación entre mRNA que provienen de un mismo locus y que tal diferencia se basa en el splicing.
+-Variación de un gen: corresponden a diferencias producidas por SNPs o MNPs.`
 
 
 # BIBLIOGRAFÍA
@@ -86,3 +88,4 @@ __R:__
 1) http://www.omim.org/entry/232400?search=disease&highlight=disease
 2) https://www.ncbi.nlm.nih.gov/gene/178
 3) https://www.ncbi.nlm.nih.gov/gene/?Term=ortholog_gene_178[group]
+4) https://www.ncbi.nlm.nih.gov/clinvar/?term=AGL[gene]
