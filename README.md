@@ -1,5 +1,8 @@
 # Laboratorio 1 bioinformática
 ----
+# Parte 1
+
+----
 
 ## Enfermedad escogida: GLYCOGEN STORAGE DISEASE III; GSD3 (1)
 
@@ -75,11 +78,38 @@ __R:__
 
 + `En la página de variación, aparecen 0 resultados para la selección 'Duplication', por lo que basándome en ésta base de datos, no existen parálogos para el gen AGL.` 
 
-+` No posee pseudogenes. Hay dos pseudogenes cercanos pero corresponden a otras funciones: RPL39P9 y RP4-581O6.1.`
++ `No posee pseudogenes. Hay dos pseudogenes cercanos pero corresponden a otras funciones: RPL39P9 y RP4-581O6.1.`
+
+# Parte 2
+
+----
+
++ __Página Kegg: http://www.kegg.jp/dbget-bin/www_bget?hsa:agl __.
 
 
+#### Anteriormente encontraste nombres alternativos de tu gen ¿Existen otros reportados por Kegg? ¿Cuáles?
 
+__R:__
 
++ `
+
+#### ¿En qué rutas metabólicas participa la proteina codificada por tu gen?  
+
+__R:__
+
++ `
+
+#### ¿Cuál es el número de identificación de tu gen (entry number)?  
+
+__R:__
+
++ `
+
+#### En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede obtener exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso?  
+
+__R:__
+
++ `
 
 
 
