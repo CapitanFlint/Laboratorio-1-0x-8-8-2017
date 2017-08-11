@@ -65,8 +65,9 @@ __R:__
 
 __R:__
 
-+`
++ `Primeramente, es difícil responder esta pregunta con _certeza_, ya que de todas las variaciones, pocas han sido revisadas (curadas). De las que han sido revisadas, en su mayoría corresponden a mutaciones missense y de nucleótido simple. Por otra parte, hay 35 cambios 'benignos', que se podría interpretar como que no producen un daño significativo a nivel metabólico. Por esto, pienso que pueden haber mutaciones sinónimas, pero al parecer en una menor frecuencia que las de otra naturaleza.`
 
++ `Si, existen 212 genes ortólogos descritos.`(3)
 
 #### ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?  
 
