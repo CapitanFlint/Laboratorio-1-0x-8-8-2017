@@ -84,7 +84,7 @@ __R:__
 
 ----
 
-+ __Página Kegg: http://www.kegg.jp/dbget-bin/www_bget?hsa:agl __.
++ __Página Kegg:http://www.kegg.jp/dbget-bin/www_bget?hsa:agl__.
 
 
 #### Anteriormente encontraste nombres alternativos de tu gen ¿Existen otros reportados por Kegg? ¿Cuáles?
