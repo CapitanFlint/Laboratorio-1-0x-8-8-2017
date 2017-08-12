@@ -114,13 +114,16 @@ __Imagen 2__: Ruta metabólica general.
 
 __R:__
 
-+ `
++ `178. Con ese código es posible acceder a la información del gen, definido como 'NCBI-GENEID'.(10) `
+
++ `Otros códigos de acceso son:ENSG00000162688 (Ensembl),P35573 (UniProt),610860 (OMIM),536 (HomoloGene).`
+
 
 #### En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede obtener exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso?  
 
 __R:__
 
-+ `
++ `http://atlasgeneticsoncology.org/Genes/GC_AGL.html [ATLASID:55879], http://biogps.org/#goto=genereport&id=178 [Utiliza códigos de acceso de otros sitios], http://reactome.org/content/detail/R-HSA-71545 [R-HSA-71545], http://amigo.geneontology.org/amigo/gene_product/WB:WBGene00011050 [Esta es una variación, su código es: WBGene00011050 y está ligada a esta base de datos: http://www.wormbase.org/species/c_elegans/gene/WBGene00011050?from=http://www.wormbase.org/db/gene/gene?name=WBGene00011050#0-9g-3]`.
 
 
 
