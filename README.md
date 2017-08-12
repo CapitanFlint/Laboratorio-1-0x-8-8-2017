@@ -123,13 +123,13 @@ __R:__
 
 __R:__
 
-+ `http://atlasgeneticsoncology.org/Genes/GC_AGL.html [ATLASID:55879], 
++ http://atlasgeneticsoncology.org/Genes/GC_AGL.html [ATLASID:55879], 
 
 + http://biogps.org/#goto=genereport&id=178 [Utiliza códigos de acceso de otros sitios],
 
 + http://reactome.org/content/detail/R-HSA-71545 [R-HSA-71545],
 
-+ http://amigo.geneontology.org/amigo/gene_product/WB:WBGene00011050 [Esta es una variación, su código es: WBGene00011050 y está ligada a esta base de datos: http://www.wormbase.org/species/c_elegans/gene/WBGene00011050?from=http://www.wormbase.org/db/gene/gene?name=WBGene00011050#0-9g-3]`.
++ http://amigo.geneontology.org/amigo/gene_product/WB:WBGene00011050 [Esta es una variación, su código es: WBGene00011050 y está ligada a esta base de datos: http://www.wormbase.org/species/c_elegans/gene/WBGene00011050?from=http://www.wormbase.org/db/gene/gene?name=WBGene00011050#0-9g-3].
 
 
 + __NOTA:__ Las bases de datos están indicadas con su vínculo a la página web correspondiente, seguido de el código ID que se utiliza en cada base de datos, escrito entre "[]".
