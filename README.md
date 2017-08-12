@@ -207,6 +207,57 @@ __R:__
 __Imagen 3:__ Los cuadrados de colores que aparecen abajo de cada proceso relacionado indica una especie de organismo en particular. Cada cuadrado representa una sub-categoría.
 
 
+# Parte 3
+
+----
+
+
+#### ¿Cuántos items fueron encontrados? ¿cuántos en animales?
+
+__R:__
+
+
++
+
+#### Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq.
+
+
+#### Haz clic en la entrada para la secuencia de GAPDH de gallina. 
+
+----
+
+#### ¿Cuál es la longitud del gen? 
+
+__R:__
+
+
++
+
+
+#### ¿Cuál es la referencia bibliográfica más reciente? 
+
+__R:__
+
++
+
+
+#### Cuál es el número de acceso?
+
+__R:__
+
++
+
+
+#### Descarga la secuencia en formato fasta y agrégala a tu informe
+
+__Secuencia__
+
+
+> dsa.
+
+
+
+
 ## __Glosario__:
 - `Isoforma de un gen: Corresponde a una variación entre mRNA que provienen de un mismo locus y que tal diferencia se basa en el splicing.`
 
