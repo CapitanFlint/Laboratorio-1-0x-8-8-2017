@@ -141,7 +141,7 @@ __R:__
 __R:__
 
 
-+
++ `Está involucrado solamente en el 'starch and sucrose metabolism', actuando específicamente en la formación de glucosa-alfa 1-fosfato a partir de glicógeno (ver #### __Imagen 1__).`
 
 
 #### ¿Qué significan los cuadros verdes en el diagrama?
@@ -150,7 +150,7 @@ __R:__
 __R:__
 
 
-+
++ `Los cuadros verdes corresponden a una simplificación del nombre de una enzima particular`.
 
 
 #### ¿Con qué rutas se cruza la ruta metabólica?
@@ -159,7 +159,50 @@ __R:__
 __R:__
 
 
-+
++ `Se cruza principalmente con Nucleotide metabolism y con Glycan biosynthesis and metabolism(ver __Imagen 2__) `. 
+
+
+#### ¿Cuántos "dominios" forman la anotación GO?
+
+
+__R:__
+
+
++ `Ontology Structure, Ontology Relations, Cellular Component Ontology ,Molecular Function Ontology, Biological Process Ontology,Species-Specific Terms: 
+  - Cell
+  - Membrane proteins
+  - Membranes and envelopes
+  - Protein complexes
+  - Cell Cycle
+  - Development
+  - Metabolic processes
+  - Other organisms and viruses
+  - Regulation
+  - Detection and Response to stimulus
+  - Sensory perception
+  - Transport and transporters`
+
+
+
+#### Ve a "Tools" --> "AmiGO 2" y escribe en la casilla de búsqueda GO:0006096 ¿A qué corresponde este término y qué información te entrega la página?
+
+
+__R:__
+
+
++ `El término corresponde a un proceso metabólico, especficamente a los procesos glicolíticos. La página entrega tres informaciones principales:
+- Sobre información detallada sobre el proceso en cuestión, sirviendo como una biblioteca para acceder a otros servicios.
+ - Sobre anotaciones de ontología.
+  - Sobre los genes y productos relacionados con ese proceso metabólico.`
+
+
+#### Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece
+
+
+__R:__
+
+
+
 
 
 ## __Glosario__:
