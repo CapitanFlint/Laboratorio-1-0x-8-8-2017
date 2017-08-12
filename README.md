@@ -168,19 +168,19 @@ __R:__
 __R:__
 
 
-+ `Ontology Structure, Ontology Relations, Cellular Component Ontology ,Molecular Function Ontology, Biological Process Ontology,Species-Specific Terms: 
-  - Cell
-  - Membrane proteins
-  - Membranes and envelopes
-  - Protein complexes
-  - Cell Cycle
-  - Development
-  - Metabolic processes
-  - Other organisms and viruses
-  - Regulation
-  - Detection and Response to stimulus
-  - Sensory perception
-  - Transport and transporters`
++ `Ontology Structure, Ontology Relations, Cellular Component Ontology ,Molecular Function Ontology, Biological Process Ontology,Species-Specific Terms:` 
+  - `Cell`
+  - `Membrane proteins`
+  - `Membranes and envelopes`
+  - `Protein complexes`
+  - `Cell Cycle`
+  - `Development`
+  - `Metabolic processes`
+  - `Other organisms and viruses`
+  - `Regulation`
+  - `Detection and Response to stimulus`
+  - `Sensory perception`
+  - `Transport and transporters`
 
 
 
@@ -190,10 +190,10 @@ __R:__
 __R:__
 
 
-+ `El término corresponde a un proceso metabólico, especficamente a los procesos glicolíticos. La página entrega tres informaciones principales:
-- Sobre información detallada sobre el proceso en cuestión, sirviendo como una biblioteca para acceder a otros servicios.
- - Sobre anotaciones de ontología.
-  - Sobre los genes y productos relacionados con ese proceso metabólico.`
++ `El término corresponde a un proceso metabólico, especficamente a los procesos glicolíticos. La página entrega tres informaciones principales:`
+- `Sobre información detallada sobre el proceso en cuestión, sirviendo como una biblioteca para acceder a otros servicios.`
+- `Sobre anotaciones de ontología`.
+- `Sobre los genes y productos relacionados con ese proceso metabólico`.
 
 
 #### Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece
@@ -202,7 +202,9 @@ __R:__
 __R:__
 
 
+![ProcesosGlicoliticos](https://github.com/CapitanFlint/Laboratorio-1-0x-8-8-2017/blob/master/Procesos%20glicol%C3%ADticos.png)
 
+__Imagen 3:__ Los cuadrados de colores que aparecen abajo de cada proceso relacionado indica una especie de organismo en particular. Cada cuadrado representa una sub-categoría.
 
 
 ## __Glosario__:
