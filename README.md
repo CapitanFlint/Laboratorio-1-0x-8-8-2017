@@ -327,6 +327,11 @@ NM_204305.1          TACCACCTTACATCAATAAAAGTGTTCACCATCTGAAG
 
 ----
 
+![AlertaBusq](https://github.com/CapitanFlint/Laboratorio-1-0x-8-8-2017/blob/master/Alerta%20de%20b%C3%BAsqueda.png)
+
+
+__Imagen 4:__ Alerta de búsqueda
+
 
 
 
