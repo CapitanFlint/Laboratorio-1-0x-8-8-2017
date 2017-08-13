@@ -337,9 +337,61 @@ __Imagen 4:__ Alerta de búsqueda.
 
 __Imagen 5:__ Alerta subscrpición.
 
+#### Ahora usa comillas para realizar tu búsqueda "Human Microbiome"
+
++ ¿Son los resultados idénticos o no?
+
+__R:__
 
 
-## __Glosario__:
++ `No, se diferencian en el algoritmo de búsqueda, mientras que en Human microbiome el buscador obtena resultados con las palabras human, human microbiome y microbiome, la búsqueda con comillas restringió la búsqueda solo a human microbiome.` 
+
+#### También puedes usar * para representar una palabra que falta, e.g., "Human Microbiome *"
+
+
++ ¿En qué cambiaron los resultados de la búsqueda?
+
+__R:__
+
+
++ Al poner el asterisco, el resultado arrojaba una palabra complementaria a Human microbiome, que podria servir para encontrar algo en especifico que se halla olvidado. 
+
+
+
+#### También puedes condicionar tus búsquedas a rangos de números como precios, años, etc. Prueba con 14 inch...17 inch laptops en google.com
+
++ ¿Qué encuentras en los resultados? Prueba sin el rango también
+
+
+__R:__
+
++ Computadoras a la venta entre ese rango.
+
+#### Para buscar artículos científicos también es útil restringir los resultados de búsqueda a tipos de archivo. Prueba con "human microbiome" filetype:pdf
+
++ Describe tus resultados
+
+
+__R:__
+
+
++ Los resultados no variaron tanto como esperaba, ya que los links que contenían archivos .pdf eran minoria. Pero es posible de que pueda servir, estadisticamente, para encontrar archivos pdf.
+
+
+#### Otro truco útil es usar signos - y +. Por ejemplo trata buscar "PCR amplification" +temperature, y luego "PCR amplification" -temperature
+
++ En qué cambian los resultados de la búsqueda?
+
+__R:__
+
+
++ En que lo que se busca se incluye o excluye con los signos. Es una herramienta para discriminar conceptos.
+
+
+
+
+
+## __Glosario__: (no tomar en cuenta esto)
 - `Isoforma de un gen: Corresponde a una variación entre mRNA que provienen de un mismo locus y que tal diferencia se basa en el splicing.`
 
 - `Variación de un gen: corresponden a diferencias producidas por SNPs o MNPs.`
