@@ -217,11 +217,9 @@ __Imagen 3:__ Los cuadrados de colores que aparecen abajo de cada proceso relaci
 __R:__
 
 
-+
++ `Fueron encontrados 86454 items. En la sección animales, se encuentran descritos 12034 para la enzima deshidrogenasa.`
 
 #### Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq.
-
-
 #### Haz clic en la entrada para la secuencia de GAPDH de gallina. 
 
 ----
@@ -231,21 +229,27 @@ __R:__
 __R:__
 
 
-+
++ `El gen posee 1288 pb` (10).
 
 
 #### ¿Cuál es la referencia bibliográfica más reciente? 
 
 __R:__
 
-+
++ `Del año 2015 [son tres referencias que se publicaron ese año], donde el título y sus autores son:`
+
++ `Binding chicken Anx2 is beneficial for infection with infectious bursal disease virus Ren X, Zhang L, Gao Y, Gao H, Wang Y, Liu C, Cui H, Zhang Y, Jiang L, Qi X and Wang X.`
+
++ `CpG site DNA methylation of the CCAAT/enhancer-binding protein, alpha promoter in chicken lines divergently selected for fatnessGao Y, Sun Y, Duan K, Shi H, Wang S, Li H and Wang N.`
+
++ `Effects of epigallocatechin gallate on lipid metabolism and its underlying molecular mechanism in broiler chickensHuang JB, Zhang Y, Zhou YB, Wan XC and Zhang JS.`
 
 
 #### Cuál es el número de acceso?
 
 __R:__
 
-+
++ `El número de acceso es NM_204305`
 
 
 #### Descarga la secuencia en formato fasta y agrégala a tu informe
@@ -253,7 +257,28 @@ __R:__
 __Secuencia__
 
 
-> dsa.
+> >NM_204305.1 Gallus gallus glyceraldehyde-3-phosphate dehydrogenase (GAPDH), mRNA
+ACCTTCTCACTGCGCGCTGGGGCCGTTGACGTGCAGCAGGAACACTATAAAGGCGAGATGGTGAAAGTCG
+GAGTCAACGGATTTGGCCGTATTGGCCGCCTGGTCACCAGGGCTGCCGTCCTCTCTGGCAAAGTCCAAGT
+GGTGGCCATCAATGATCCCTTCATCGATCTGAACTACATGGTTTACATGTTCAAATATGATTCTACACAC
+GGACACTTCAAGGGCACTGTCAAGGCTGAGAACGGGAAACTTGTGATCAATGGGCACGCCATCACTATCT
+TCCAGGAGCGTGACCCCAGCAACATCAAATGGGCAGATGCAGGTGCTGAGTATGTTGTGGAGTCCACTGG
+TGTCTTCACCACCATGGAGAAGGCTGGGGCTCATCTGAAGGGTGGTGCTAAGCGTGTTATCATCTCAGCT
+CCCTCAGCTGATGCCCCCATGTTTGTGATGGGTGTCAACCATGAGAAATATGACAAGTCCCTGAAAATTG
+TCAGCAATGCATCGTGCACCACCAACTGCCTGGCACCCTTGGCCAAGGTCATCCATGACAACTTTGGCAT
+TGTGGAGGGTCTTATGACCACTGTCCATGCCATCACAGCCACACAGAAGACGGTGGATGGCCCCTCTGGG
+AAGCTGTGGAGAGATGGCAGAGGTGCTGCCCAGAACATCATCCCAGCGTCCACTGGGGCTGCTAAGGCTG
+TGGGGAAAGTCATCCCTGAGCTGAATGGGAAGCTTACTGGAATGGCTTTCCGTGTGCCAACCCCCAATGT
+CTCTGTTGTTGACCTGACCTGCCGTCTGGAGAAACCAGCCAAGTATGATGATATCAAGAGGGTAGTGAAG
+GCTGCTGCTGATGGGCCCCTGAAGGGCATCCTAGGATACACAGAGGACCAGGTTGTCTCCTGTGACTTCA
+ATGGTGACAGCCATTCCTCCACCTTTGATGCGGGTGCTGGCATTGCACTGAATGACCATTTCGTCAAGCT
+TGTTTCCTGGTATGACAATGAGTTTGGATACAGCAACCGTGTTGTGGACTTGATGGTCCACATGGCATCC
+AAGGAGTGAGCCAGGCACACAGCCCCCCTGCTGCCTAGGGAAGCAGGACCCTTTGTTGGAGCCCCTGCTC
+TTCACCACCGCTCAGTTCTGCATCCTGCAGTGAGAGGCCAGTTCTGTTCCCTTCTGTCTCCCCCACTCCT
+CCAATTTCTTCCTCCACCTGGGGGAGGTGGGAGAGGCTGATAGAAACTGATCTGTTTGTGTACCACCTTA
+CATCAATAAAAGTGTTCACCATCTGAAG.
+
+
 
 
 
@@ -275,3 +300,4 @@ __Secuencia__
 7) https://www.ncbi.nlm.nih.gov/clinvar/variation/370509/
 8) http://www.uniprot.org/uniprot/P35573
 9) http://reactome.org/content/detail/R-HSA-71545
+10) https://www.ncbi.nlm.nih.gov/nuccore/NM_204305.1
